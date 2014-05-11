@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+@font-face {
+	font-family: ${1:font};
+	src: url(${1:font}.ttf);
+}
+]]></content>
+	<tabTrigger>font-face!</tabTrigger>
+	<scope>source.css</scope>
+</snippet>

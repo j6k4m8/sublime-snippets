@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+padding: 0;
+margin: 0;
+]]></content>
+	<tabTrigger>no-padding-no-margin!</tabTrigger>
+	<scope>source.css</scope>
+</snippet>

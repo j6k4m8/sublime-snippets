@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<link href='http://fonts.googleapis.com/css?family=Roboto+Slab:${1:100}${2:,300}${3:,400}${4:,700}' rel='stylesheet' type='text/css'>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>roboto slab!</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>
