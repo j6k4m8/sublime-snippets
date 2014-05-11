@@ -5,14 +5,13 @@ A few Sublime snippets that I use regularly and thought I'd share.
 
 
 ## css-snippets
-### `vertical-center!`<kbd>tab</kbd>
+- ### `vertical-center!`<kbd>tab</kbd>
 Adds CSS to vertical-center (and horizontal-center) a div.
 
-## css-snippets
-### `font-face!`<kbd>tab</kbd>
+- ### `font-face!`<kbd>tab</kbd>
 Adds a basic `@font-face` template, because I'm always forgetting what it should look like.
 
-### `no-padding-no-margin!`<kbd>tab</kbd>
+- ### `no-padding-no-margin!`<kbd>tab</kbd>
 Adds `padding: 0; margin: 0;` because I guess I'm too lazy to add that.
 
 ## google-fonts-snippets
