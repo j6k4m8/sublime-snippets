@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<script>function refresh(){location.reload()}var focused=true;window.onfocus=function(){focused=true};window.onblur=function(){focused=false};window.setInterval(function(){if(!focused){refresh()}},1e3);document.onkeyup=function(e){if(e.ctrlKey&&e.altKey){console.log(e);refresh()}}</script>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>refresh!</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.html</scope>
+</snippet>

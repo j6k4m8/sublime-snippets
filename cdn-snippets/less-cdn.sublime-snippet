@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+${1:<style type="text/less">
+    $2
+</style>}
+<script src="//cdnjs.cloudflare.com/ajax/libs/less.js/1.7.0/less.min.js"></script>$3
+]]></content>
+    <tabTrigger>less!</tabTrigger>
+    <scope>text.html</scope>
+</snippet>

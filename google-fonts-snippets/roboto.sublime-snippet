@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<link href='http://fonts.googleapis.com/css?family=Roboto:${1:100}${2:,300}${3:,400}${4:,700}${5:,900}' rel='stylesheet' type='text/css'>
-]]></content>
-	<tabTrigger>roboto!</tabTrigger>
-	<scope>text.html</scope>
-</snippet>
